@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bb1b49c-c70a-4c98-b377-3dec13e1e8ef" name="Changes" comment="pulled from origin" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;api-sage&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/api-sage/housing_price_predictor.git&quot;,
+    &quot;accountId&quot;: &quot;821aae9b-0f32-472b-8047-0fb4edeab50a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3F5NEXAAYBIsaDw8WTWiHMmQsJO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/linear-regression&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bb1b49c-c70a-4c98-b377-3dec13e1e8ef" name="Changes" comment="" />
+      <created>1781360859018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781360859018</updated>
+    </task>
+    <task id="LOCAL-00001" summary="linear regression model project startup">
+      <option name="closed" value="true" />
+      <created>1781360987063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781360987063</updated>
+    </task>
+    <task id="LOCAL-00002" summary="linear regression model project startup">
+      <option name="closed" value="true" />
+      <created>1781362967902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781362967902</updated>
+    </task>
+    <task id="LOCAL-00003" summary="imported numpy lib">
+      <option name="closed" value="true" />
+      <created>1781363500715</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1781363500715</updated>
+    </task>
+    <task id="LOCAL-00004" summary="built forward pass function for manual linear regression model">
+      <option name="closed" value="true" />
+      <created>1781385093196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1781385093196</updated>
+    </task>
+    <task id="LOCAL-00005" summary="built backward pass function for manual linear regression model">
+      <option name="closed" value="true" />
+      <created>1781434027019</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1781434027019</updated>
+    </task>
+    <task id="LOCAL-00006" summary="data importation, loading and preparation">
+      <option name="closed" value="true" />
+      <created>1781441053667</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1781441053668</updated>
+    </task>
+    <task id="LOCAL-00007" summary="function implementation for converting a 1d array into a 2d array">
+      <option name="closed" value="true" />
+      <created>1781803686184</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1781803686184</updated>
+    </task>
+    <task id="LOCAL-00008" summary="function implementation for stochastic shuffling of x and y matrixes">
+      <option name="closed" value="true" />
+      <created>1781804089403</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1781804089403</updated>
+    </task>
+    <task id="LOCAL-00009" summary="function implementation batch generation of data for training">
+      <option name="closed" value="true" />
+      <created>1781804798705</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1781804798705</updated>
+    </task>
+    <task id="LOCAL-00010" summary="function implementation for weight initialization">
+      <option name="closed" value="true" />
+      <created>1781805378873</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1781805378873</updated>
+    </task>
+    <task id="LOCAL-00011" summary="function implementation for model training">
+      <option name="closed" value="true" />
+      <created>1781807057997</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1781807057997</updated>
+    </task>
+    <task id="LOCAL-00012" summary="pulled from origin">
+      <option name="closed" value="true" />
+      <created>1782825002785</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782825002785</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="eed4636e-d48b-463f-ac2d-17d2b3b2ccd8" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feature/linear-regression" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="180" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="153" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="eed4636e-d48b-463f-ac2d-17d2b3b2ccd8">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature/linear-regression" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="linear regression model project startup" />
+    <MESSAGE value="imported numpy lib" />
+    <MESSAGE value="built forward pass function for manual linear regression model" />
+    <MESSAGE value="built backward pass function for manual linear regression model" />
+    <MESSAGE value="data importation, loading and preparation" />
+    <MESSAGE value="function implementation for converting a 1d array into a 2d array" />
+    <MESSAGE value="function implementation for stochastic shuffling of x and y matrixes" />
+    <MESSAGE value="function implementation batch generation of data for training" />
+    <MESSAGE value="function implementation for weight initialization" />
+    <MESSAGE value="function implementation for model training" />
+    <MESSAGE value="pulled from origin" />
+    <option name="LAST_COMMIT_MESSAGE" value="pulled from origin" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/models/house_predictor.ipynb</url>
+          <line>165</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/models/house_predictor.ipynb</url>
+          <line>147</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
